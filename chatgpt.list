@@ -3,5 +3,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
+# Add claude
+DOMAIN-SUFFIX,slack.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
