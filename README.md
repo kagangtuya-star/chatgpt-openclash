@@ -8,7 +8,9 @@
 
     https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接&config=https%3A%2F%2Fraw.githubusercontent.com%2Fkagangtuya-star%2Fchatgpt-openclash%2Fmain%2FFull.ini
     
-控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可
+控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可；
+新增个人域名；
+新增对Adobe正版效验的屏蔽；
 
 如果更新规则后，仍提示地区不可用，请清除浏览器数据
 
