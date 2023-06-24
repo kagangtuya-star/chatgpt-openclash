@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,slack.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+# add wiki
+DOMAIN-SUFFIX,wikidot.com
