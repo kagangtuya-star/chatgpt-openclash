@@ -9,6 +9,6 @@ DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,ai.com
 # add wiki
 DOMAIN-SUFFIX,wikidot.com
-
+# add claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
