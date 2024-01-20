@@ -1,4 +1,8 @@
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
